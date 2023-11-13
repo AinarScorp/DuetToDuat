@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Spirit Player
+  m_Controller: {fileID: 9100000, guid: ebd769537689c3a4b9567139c9dd83ca, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: a4068695a1d879243ae8ec56c731b577, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3c82657d97f4a3846a6716023c293924, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: eb530b2354706d0499cabbaf8ac2086c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3c82657d97f4a3846a6716023c293924, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 39aa95be716f62841af39b57a9cee2a6, type: 2}
+    m_OverrideClip: {fileID: 4919119664035218739, guid: 9be426c9009ec504fad19e11cc0b7442,
+      type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: bc651cfce2aad55418c322b0e02f6eee, type: 2}
+    m_OverrideClip: {fileID: 4919119664035218739, guid: 9be426c9009ec504fad19e11cc0b7442,
+      type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 8de9a01969deda449b4d86e6c837e5a3, type: 2}
+    m_OverrideClip: {fileID: 4919119664035218739, guid: 9be426c9009ec504fad19e11cc0b7442,
+      type: 3}
